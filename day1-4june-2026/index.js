@@ -9,3 +9,4 @@ function add(a, b) {
 
 console.log(add(5,10));
 console.log(add(5,20))
+console.log(add(5,20))
