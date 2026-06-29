@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { Formik, Form, Field, ErrorMessage } from "formik";
